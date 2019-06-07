@@ -1,4 +1,4 @@
-# React Redux Class Components
+# React Redux Class Based Components
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
